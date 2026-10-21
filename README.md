@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI - Multi-Agent Travel Planner with LangGraph
 
 ![Agent workflow](img.png)
