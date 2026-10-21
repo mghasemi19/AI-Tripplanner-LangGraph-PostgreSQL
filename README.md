@@ -1,4 +1,4 @@
-# ✈️ TripMate AI — A Multi-Agent Travel Planner with LangGraph
+# AI - Multi-Agent Travel Planner with LangGraph
 
 ![Agent workflow](img.png)
 
@@ -57,7 +57,7 @@ Before running the project locally, make sure you have:
 - Python 3.10 or newer installed
 - PostgreSQL running and accessible
 - API keys for:
-  - Groq
+  - OpenAI
   - Tavily
   - AviationStack
 
@@ -67,7 +67,7 @@ Create a .env file in the project root with the following variables:
 
 ```env
 DATABASE_URL=postgresql://user:password@localhost:5432/travel_db
-GROQ_API_KEY=your_groq_api_key
+OPENAI_API_KEY=your_groq_api_key
 AVIATIONSTACK_API_KEY=your_aviationstack_api_key
 TAVILY_API_KEY=your_tavily_api_key
 DEFAULT_ORIGIN_IATA=DAC
