@@ -1,4 +1,4 @@
-# ✈️ TripMate AI — A Multi-Agent Travel Planner with LangGraph
+# AI — A Multi-Agent Travel Planner with LangGraph and PostgreSQL 
 
 ![Agent workflow](img.png)
 
